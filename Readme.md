@@ -1,7 +1,7 @@
 ## Tap Assigment
 
-> MySql table create cammands are present in base.sql file
-> Credentials are harcoded for this POC (can be moved to env vars easily)
+- MySql table create cammands are present in base.sql file
+- Credentials are harcoded for this POC (can be moved to env vars easily)
 
 
 
@@ -16,6 +16,8 @@
 
 
 ## TODO: (enhancements that I can think of for later)
-> moving creds and other table names to config/env vars (hardcoded now)
-> more testing and checking in transactions are needed
-> migrating to using an orm if logics gets more complicated moving forward
+- moving creds and other table names to config/env vars (hardcoded now)
+- more testing and checking in transactions are needed
+- migrating to using an orm if logics gets more complicated moving forward
+
+### Note: creds to be replaced in sqlService and ftpService files (for now, should be moved to env later).
