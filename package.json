@@ -1,0 +1,17 @@
+{
+  "name": "tap-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^5.0.2",
+    "csv-parse": "^5.3.2",
+    "mysql2": "^2.3.3"
+  }
+}
